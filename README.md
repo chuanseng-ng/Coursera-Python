@@ -9,4 +9,4 @@
 5. Capstone: Retrieving, Processing and Visualizing Data with Python
 
 --------------------------------------------------------------------------
-### The individual assignments for each week in each course is included in this repo
+### The individual assignments for each week in each course are included in this repo
